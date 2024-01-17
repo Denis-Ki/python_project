@@ -4,3 +4,10 @@ def get_summ(a,b):
     '''
     return a + b
 
+
+def get_minus(a,b):
+    '''
+    функция, которая складывает два числа
+    '''
+    return a - b
+
